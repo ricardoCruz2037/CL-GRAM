@@ -134,7 +134,7 @@ API_HASH=YOUR_API_HASH
 ## 🗺️ Roadmap
 
 - [x] Requirements gathering
-- [ ] v0.1 — Authentication and basic listener
+- [x] v0.1 — Authentication and basic listener
 - [ ] v0.2 — Kitty window launch + reply prompt
 - [ ] v0.3 — Conversation loop + message sending
 - [ ] v0.4 — Whitelist filter + sticker handling
